@@ -1,7 +1,3 @@
 grasshopper-
 ============
-
-grasshopper voor rhino 3d twente users
-wout zweers
-zweers(at)dds.nl
-0623020257
+making topography and visualisations with grasshopper and rhino
